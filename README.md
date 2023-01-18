@@ -23,11 +23,11 @@ Usage
 
     To run the server, execute the following command:
 
-python3 reverse_shell_server.py
+- python3 reverse_shell_server.py
 
     To run the client, execute the following command:
 
-python3 reverse_shell_client.py
+- python3 reverse_shell_client.py
 
     The client will be prompted to enter the server's IP address and port number
     Once connected, the client can enter commands and receive the output
