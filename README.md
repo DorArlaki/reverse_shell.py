@@ -13,11 +13,11 @@ Prerequisites
 
 Installing
 
-    Download or clone the repository to your local machine
-    Run reverse_shell_server.py on the machine you want to use as the server
-    Run reverse_shell_client.py on the machine you want to use as the client
-    The client will be prompted to enter the server's IP address and port number
-    Once connected, the client can enter commands and receive the output
+   - Download or clone the repository to your local machine
+   - Run reverse_shell_server.py on the machine you want to use as the server
+   - Run reverse_shell_client.py on the machine you want to use as the client
+   - The client will be prompted to enter the server's IP address and port number
+   - Once connected, the client can enter commands and receive the output
 
 Usage
 
